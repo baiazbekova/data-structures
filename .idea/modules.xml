@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructures01-Arrays/DataStructures01-Arrays.iml" filepath="$PROJECT_DIR$/DataStructures01-Arrays/DataStructures01-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures02_LinkedLists/DataStructures02-LinkedLists.iml" filepath="$PROJECT_DIR$/DataStructures02_LinkedLists/DataStructures02-LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data-structures.iml" filepath="$PROJECT_DIR$/.idea/data-structures.iml" />
+    </modules>
+  </component>
+</project>
